@@ -1,0 +1,21 @@
+site_name: geoSiteYamaguchi
+
+use_directory_urls: 140.227.176.133
+
+theme:
+  language: ja
+  name: bootswatch
+
+nav:
+- Home: 'index.md'
+
+- Documentation:
+ - Page1: 'page1.md'
+- お問い合わせ:  language: ja
+  language: ja
+
+ - お問い合わせ: 'about.md'
+
+
+
+
