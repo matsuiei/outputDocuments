@@ -10,7 +10,8 @@ nav:
 - Home: 'index.md'
 
 - Documentation:
- - Page1: 'page1.md'
+ - geodjango: 'geodjango.md'
+ - infra: 'infra.md'
 - お問い合わせ:  language: ja
   language: ja
 
