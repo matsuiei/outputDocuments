@@ -1,19 +1,20 @@
 site_name: geoSiteYamaguchi
-
-use_directory_urls: 140.227.176.133
+site_url: http://140.227.176.133
 
 theme:
   language: ja
-  name: bootswatch
+  name: material
 
 nav:
 - Home: 'index.md'
-
-- Documentation:
-  - geodjango: 'geodjango.md'
-  - infra: 'infra.md'
-  - お問い合わせ: 'about.md'
+- geodjango: 'geodjango.md'
+- infra: 'infra.md'
+- お問い合わせ: 'about.md'
 
 
-
-
+# タブ付きコンテンツ
+- pymdownx.tabbed
+# スーパーフェンス機能
+- pymdownx.superfences
+# アラート装飾
+- admonition
